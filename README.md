@@ -26,7 +26,7 @@ Secondly, go to `C:\Program Files (x86)\Steam\steamapps\common\Doom 64` and dele
 
 Now download [Brutal Doom 64 v2.5](https://www.moddb.com/mods/brutal-doom-64/addons/brutal-doom-64-v2-patched), [Doom 64 Ultimate Music Pack](https://www.moddb.com/mods/brutal-doom-64/addons/the-doom-64-ultimate-music-pack), and finally [FreeDoom](https://github.com/freedoom/freedoom/releases/latest) (freedoom-0.12.1.zip is the latest release at time of writing). Extract everything.
 
-Put `bd64game_v2.5.pk3`, `bd64maps_v2.5.pk3`, and `D64 Messages Freedoom.pk3` from Brutal Doom 64 v2.5, `DOOM 64 ULTIMATE MUSIC PACK.PK3` from the Music Pack,  and `freedoom2.wad` from FreeDoom into `C:\Program Files (x86)\Steam\steamapps\common\Doom 64`. Generate `Brutal Doom 64.exe` as explained in the Usage section, rename it to `DOOM64_x64.exe`, and also place it in the same folder and the other files.
+Put `bd64game_v2.5.pk3`, `bd64maps_v2.5.pk3`, and the `Optional_Addons` folder from Brutal Doom 64 v2.5, `DOOM 64 ULTIMATE MUSIC PACK.PK3` from the Music Pack, and `freedoom2.wad` from FreeDoom into `C:\Program Files (x86)\Steam\steamapps\common\Doom 64`. Generate `Brutal Doom 64.exe` as explained in the Usage section, rename it to `DOOM64_x64.exe`, and also place it in the same folder and the other files.
 
 Done.
 
